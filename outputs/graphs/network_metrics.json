@@ -1,0 +1,27 @@
+{
+  "nodes": 6929,
+  "edges": 6429,
+  "density": 0.00013392602700368667,
+  "top_spreaders": [
+    {
+      "node": "source_0",
+      "score": 0.0013
+    },
+    {
+      "node": "source_6",
+      "score": 0.0013
+    },
+    {
+      "node": "source_8",
+      "score": 0.0013
+    },
+    {
+      "node": "source_18",
+      "score": 0.0013
+    },
+    {
+      "node": "source_22",
+      "score": 0.0013
+    }
+  ]
+}
